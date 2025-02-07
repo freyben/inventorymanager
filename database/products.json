@@ -1,0 +1,76 @@
+[
+    {
+        "table_name": "electronics",
+        "records": [
+            {
+                "id": "EL16863242",
+                "make": "wrrrggg",
+                "model": "wrgwrg",
+                "colour": "red",
+                "price": 123.0,
+                "quantity": 123,
+                "category": "Electronics",
+                "warranty_years": "222"
+            },
+            {
+                "id": "EL22694396",
+                "make": "jellobeangun",
+                "model": "Slinky",
+                "colour": "unicorn",
+                "price": 420.69,
+                "quantity": 7,
+                "category": "Electronics"
+            }
+        ]
+    },
+    {
+        "table_name": "food",
+        "records": []
+    },
+    {
+        "table_name": "apparel",
+        "records": [
+            {
+                "id": "AP28193674",
+                "make": "Nike",
+                "model": "Air Force 1 Sneakers",
+                "colour": "White",
+                "price": 105.0,
+                "quantity": 20,
+                "category": "Apparel"
+            }
+        ]
+    },
+    {
+        "table_name": "household",
+        "records": [
+            {
+                "id": "HO33308876",
+                "make": "Dyson",
+                "model": "V15 Detect Vacuum Cleaner",
+                "colour": "Yellow",
+                "price": 720.0,
+                "quantity": 10,
+                "category": "Household"
+            }
+        ]
+    },
+    {
+        "table_name": "toys",
+        "records": [
+            {
+                "id": "TO29237336",
+                "make": "lolophaser",
+                "model": "slinky2",
+                "colour": "ruffle",
+                "price": 22.0,
+                "quantity": 12,
+                "category": "Toys"
+            }
+        ]
+    },
+    {
+        "table_name": "books",
+        "records": []
+    }
+]
